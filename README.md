@@ -1,3 +1,5 @@
+## USING AN LDR SENSOR WITH ARDUINO
+
 Introduction
 ---------------
 
