@@ -5,6 +5,6 @@ Hi Everyone, This is my 1st Arduino's tutorial video. In this video i am going t
 
 Wouldn’t it be really cool if whenever a room gets dark, a light bulb automatically turns ON and eliminates the darkness? In this very simple project, I am focusing on eliminating darkness. You can even use this as an emergency lighting system.
 
-[https://www.youtube.com/watch?v=1rltou-lzyQ](url)
-
 https://www.youtube.com/watch?v=1rltou-lzyQ
+
+![image alt text](https://cdn.instructables.com/FHC/DGCR/JCUUIW0P/FHCDGCRJCUUIW0P.LARGE.gif)
