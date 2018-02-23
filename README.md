@@ -53,51 +53,39 @@ Now, as we want our circuit to do something in the real world other than just di
 Step 4: The Code
 --
 ![The Code](https://cdn.instructables.com/FML/KF75/JCUUIWU4/FMLKF75JCUUIWU4.MEDIUM.jpg)
-
+```
 const int ledPin = 13;
-
 const int ldrPin = A0;
 
 
 void setup() {
 
-
 Serial.begin(9600);
-
 pinMode(ledPin, OUTPUT);
-
 pinMode(ldrPin, INPUT);
-
 
 }
 
 
 void loop() {
 
-
 int ldrStatus = analogRead(ldrPin);
-
 if (ldrStatus <= 200) {
 
-  digitalWrite(ledPin, HIGH);
-  
-  Serial.print("Its DARK, Turn on the LED : ");
-  
+  digitalWrite(ledPin, HIGH);  
+  Serial.print("Its DARK, Turn on the LED : ");  
   Serial.println(ldrStatus);
   
 } else {
 
-  digitalWrite(ledPin, LOW);
-  
-  Serial.print("Its BRIGHT, Turn off the LED : ");
-  
+  digitalWrite(ledPin, LOW);  
+  Serial.print("Its BRIGHT, Turn off the LED : ");  
   Serial.println(ldrStatus);
   
 }
 
-
 }
-
+```
 Thanks
 ---
 [![USING AN LDR SENSOR WITH ARDUINO](https://img.youtube.com/vi/1rltou-lzyQ/0.jpg)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
