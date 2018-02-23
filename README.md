@@ -33,7 +33,7 @@ For this very simple DIY Arduino project we need:
 
 Step 3: Assembly
 ----------------
-https://cdn.instructables.com/FWI/WE99/JCUUIWAG/FWIWE99JCUUIWAG.MEDIUM.jpg
+![Assembly](https://cdn.instructables.com/FWI/WE99/JCUUIWAG/FWIWE99JCUUIWAG.MEDIUM.jpg)
 
 - Connect the 3.3v output of the Arduino to the positive rail of the breadboard
 - Connect the ground to the negative rail of the breadboard
@@ -52,7 +52,7 @@ Now, as we want our circuit to do something in the real world other than just di
 
 Step 4: The Code
 --
-https://cdn.instructables.com/FML/KF75/JCUUIWU4/FMLKF75JCUUIWU4.MEDIUM.jpg
+![The Code](https://cdn.instructables.com/FML/KF75/JCUUIWU4/FMLKF75JCUUIWU4.MEDIUM.jpg)
 
 const int ledPin = 13;
 
