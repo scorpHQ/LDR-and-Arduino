@@ -5,7 +5,7 @@ Hi Everyone, This is my 1st Arduino's tutorial video. In this video i am going t
 
 Wouldn’t it be really cool if whenever a room gets dark, a light bulb automatically turns ON and eliminates the darkness? In this very simple project, I am focusing on eliminating darkness. You can even use this as an emergency lighting system.
 
-[![USING AN LDR SENSOR WITH ARDUINO](https://img.youtube.com/vi/1rltou-lzyQ/0.jpg)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
+[![USING AN LDR SENSOR WITH ARDUINO](https://github.com/scorpHQ/Arduino/blob/master/Capture1.PNG)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
 
 
 Step 1: Principle
@@ -88,6 +88,6 @@ if (ldrStatus <= 200) {
 ```
 Thanks
 ---
-[![USING AN LDR SENSOR WITH ARDUINO](https://img.youtube.com/vi/1rltou-lzyQ/0.jpg)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
+[![USING AN LDR SENSOR WITH ARDUINO](https://github.com/scorpHQ/Arduino/blob/master/Capture1.PNG)](https://www.youtube.com/watch?v=1rltou-lzyQ "USING AN LDR SENSOR WITH ARDUINO")
 
 Thanks again for watching this video! I hope it helps you. If you want to support me, you can subscribe to my channel and watch my other videos. Thanks, ca again in my next Instructable.
