@@ -10,7 +10,7 @@ Wouldn’t it be really cool if whenever a room gets dark, a light bulb automati
 
 Step 1: Principle
 -----------------
-![Principle](https://cdn.instructables.com/FHC/DGCR/JCUUIW0P/FHCDGCRJCUUIW0P.SMALL.gif)
+![Principle](https://cdn.instructables.com/FHC/DGCR/JCUUIW0P/FHCDGCRJCUUIW0P.MEDIUM.gif)
 ![Principle](https://cdn.instructables.com/FY4/D9FU/JCUUIW0O/FY4D9FUJCUUIW0O.SMALL.jpg)
 
 The LDR is a special type of resistor which allows a lower voltage to pass through it (high resistance) whenever its dark and higher voltages to pass (low resistance) whenever there is a high intensity of light.
@@ -19,4 +19,4 @@ We are going to use a 10k resistor along with the LDR to create a voltage divide
 
 Step 2: Harware Reqirement
 --------------------------
-![Harware Reqirement](https://cdn.instructables.com/FV9/K0NB/JCUUIW98/FV9K0NBJCUUIW98.SMALL.jpg)
+![Harware Reqirement](https://cdn.instructables.com/FV9/K0NB/JCUUIW98/FV9K0NBJCUUIW98.MEDIUM.jpg)
